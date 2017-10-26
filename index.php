@@ -1,3 +1,4 @@
 <?php
-echo "<h1>This is great, I'm coming to you from PHP!";
-echo "<h1><br>Yes!";
+
+echo "<h1>This is an easy PHP app";
+echo "<h1><br>Yes.. it is.";
